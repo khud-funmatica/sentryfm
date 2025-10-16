@@ -9,7 +9,7 @@ Add this line to your `Packages/manifest.json`:
 ```json
 {
   "dependencies": {
-    "com.funmatica.sentry-fm": "https://github.com/khud-funmatica/sentryfm.git"
+    "com.funmatica.sentryfm": "https://github.com/khud-funmatica/sentryfm.git"
   }
 }
 ```
