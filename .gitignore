@@ -1,5 +1,5 @@
-# Unity generated files
-*.meta
+# Unity generated files (allow .meta files for packages)
+# *.meta
 *.unity
 *.prefab
 *.mat
