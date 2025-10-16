@@ -1,0 +1,8 @@
+{
+  "name": "com.funmatica.sentry-fm",
+  "version": "1.0.0",
+  "displayName": "SentryFM - WebGL ANR Filter",
+  "description": "Filters Sentry ANR errors when browser tab is inactive",
+  "unity": "2021.3"
+}
+

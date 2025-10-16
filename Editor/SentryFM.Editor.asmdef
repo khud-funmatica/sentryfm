@@ -1,0 +1,18 @@
+{
+    "name": "SentryFM.Editor",
+    "rootNamespace": "Funmatica.SentryFM",
+    "references": [
+        "SentryFM.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
