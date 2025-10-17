@@ -2,7 +2,6 @@ using System;
 using Sentry;
 using Sentry.Extensibility;
 using Sentry.Unity;
-using Sentry.Unity.Editor;
 using UnityEngine;
 
 namespace Funmatica.SentryFM
